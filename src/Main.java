@@ -39,7 +39,6 @@ public class Main {
         var boxer2 = 82.7;
         System.out.println(boxer1 + boxer2);
         System.out.println(boxer2 - boxer1);
-
         System.out.println(boxer2 - boxer1);
         System.out.println(boxer2 % boxer1);
 
